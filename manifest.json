@@ -1,6 +1,6 @@
 {
-    "name": "svelte-ts-extension-boilerplate",
-    "description": "Boilerplate for Chrome Extension Svelte Typescript project",
+    "name": "Contingent BIA CoPilot",
+    "description": "Contingent CoPilot for B Lab's B Impact Assessment",
     "version": "1.0",
     "manifest_version": 3,
     "icons": {
